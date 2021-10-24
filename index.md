@@ -7,7 +7,7 @@ in order to broaden my analytical toolkit.
 
 <img style="float: right;" src="./docs/alec-chapman-headshot-cropped-1.jpeg" width="50%" height="50%">
 
-Here is a [link to my CV](docs/alec-chapman-cv.pdf)
+Here is a [link to my CV](docs/alec-chapman-cv.pdf).
 <br>  
 
 ### Research Interests
@@ -19,7 +19,7 @@ Here is a [link to my CV](docs/alec-chapman-cv.pdf)
 - Patient safety and quality of care
 
 ### Publications
-Here are a few select publications which I have been fortunate to be an author on. For a more complete list, see my [CV](docs/alec-chapman-cv.pdf)
+Here are a few select publications which I have been fortunate to be an author on. For a more complete list, see my [CV](docs/alec-chapman-cv.pdf).
 - [ReHouSED: A novel measurement of Veteran housing stability using natural language processing](https://www.sciencedirect.com/science/article/pii/S153204642100232X)
 - [A Natural Language Processing System for National COVID-19 Surveillance in the US Department of Veterans Affairs](https://aclanthology.org/2020.nlpcovid19-acl.10/)
 - [Launching into clinical space with medspaCy: a new clinical text processing toolkit in Python](https://arxiv.org/pdf/2106.07799.pdf)
@@ -27,6 +27,8 @@ Here are a few select publications which I have been fortunate to be an author o
 
 ### What I'm working on
 - [medSpaCy](https://github.com/medspacy/medspacy): An open-source library for performing clinical NLP tasks in spaCy, including implementations of the ConText algorithm for detecting attributes such as negation and experiencer, section detection, and pre/postprocessing
+<img style="float: right;" src="https://github.com/medspacy/medspacy/blob/master/images/medspacy_logo.png" width="50%" height="50%">
+
 - A system for extracting assertions of pneumonia diagnosis in three types of clinical texts (emergency medicine note, radiology report, and discharge summary) in order to study how pneumonia diagnoses change during a hospitalization
 - Applying an NLP system called [ReHouSED](https://www.sciencedirect.com/science/article/pii/S153204642100232X) to study Veteran housing stability across time 
 - An NLP system to identify patients who left the hospital againast medical advice
