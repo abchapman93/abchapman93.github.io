@@ -5,7 +5,7 @@ to support healthcare operations and clinical research.
 As a student, I am currently focused on expanding my quantitative skills and mathematical foundations 
 in order to broaden my analytical toolkit.
 
-<img style="float: right;" src="./docs/alec-chapman-headshot-cropped-1.jpeg" width=""50%" height="50%>
+<img style="float: right;" src="./docs/alec-chapman-headshot-cropped-1.jpeg" width="50%" height="50%">
 
 
 ### CV
