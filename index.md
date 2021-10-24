@@ -8,6 +8,9 @@ in order to broaden my analytical toolkit.
 <img style="float: right;" src="./docs/alec-chapman-headshot-cropped-1.jpeg" width="50%" height="50%">
 
 Here is a [link to my CV](docs/alec-chapman-cv.pdf)
+<br>  
+<br>  
+<br>  
 
 ### Research Interests
 - Natural language processing
@@ -22,11 +25,13 @@ Here are a few select publications which I have been fortunate to be an author o
 - [ReHouSED: A novel measurement of Veteran housing stability using natural language processing](https://www.sciencedirect.com/science/article/pii/S153204642100232X)
 - [A Natural Language Processing System for National COVID-19 Surveillance in the US Department of Veterans Affairs](https://aclanthology.org/2020.nlpcovid19-acl.10/)
 - [Launching into clinical space with medspaCy: a new clinical text processing toolkit in Python](https://arxiv.org/pdf/2106.07799.pdf)
-- [https://link.springer.com/article/10.1007%2Fs40264-018-0763-y](https://link.springer.com/article/10.1007%2Fs40264-018-0763-y)
+- [Detecting Adverse Drug Events with Rapidly Trained Classification Models](https://link.springer.com/article/10.1007%2Fs40264-018-0763-y)
 
 ### What I'm working on
-- [VA_COVID-19_NLP_BSV](https://github.com/abchapman93/VA_COVID-19_NLP_BSV): An NLP pipeline for detecting positive cases of COVID-19. Implemented in spaCy and deployed as part of the [Veterans Affairs response to COVID-19](https://openreview.net/pdf?id=ZQ_HvBxcdCv)
-- [medSpaCy](https://github.com/medspacy/medspacy): A library for performing clinical NLP tasks in spaCy, including implementations of the [ConText algorithm](https://github.com/medspacy/cycontext) and [clinical note section detection](https://github.com/medspacy/sectionizer)
+- [medSpaCy](https://github.com/medspacy/medspacy): An open-source library for performing clinical NLP tasks in spaCy, including implementations of the ConText algorithm for detecting attributes such as negation and experiencer, section detection, and pre/postprocessing
+- A system for extracting assertions of pneumonia diagnosis in three types of clinical texts (emergency medicine note, radiology report, and discharge summary) in order to study how pneumonia diagnoses change during a hospitalization
+- Applying an NLP system called [ReHouSED](https://www.sciencedirect.com/science/article/pii/S153204642100232X) to study Veteran housing stability across time 
+- An NLP system to identify patients who left the hospital againast medical advice
 
 ### Educational Work
 I previously worked as an adjunct professor at [Utah Valley University](https://www.uvu.edu/), where I teach **INFO-3700: Foundations of Healthcare Informatics**. I've also taught at various summer schools and online workshops. Whenever possible, I try to make my materials available publicly. Here are some links to online courses or tutorials which I've contributed to.
