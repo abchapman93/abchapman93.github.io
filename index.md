@@ -27,7 +27,7 @@ Here are a few select publications which I have been fortunate to be an author o
 
 ### What I'm working on
 - [medSpaCy](https://github.com/medspacy/medspacy): An open-source library for performing clinical NLP tasks in spaCy, including implementations of the ConText algorithm for detecting attributes such as negation and experiencer, section detection, and pre/postprocessing
-<img style="float: right;" src="https://github.com/medspacy/medspacy/blob/master/images/medspacy_logo.png" width="50%" height="50%">
+<img style="float: right;" src="./docs/medspacy_logo.png" width="50%" height="50%">
 
 - A system for extracting assertions of pneumonia diagnosis in three types of clinical texts (emergency medicine note, radiology report, and discharge summary) in order to study how pneumonia diagnoses change during a hospitalization
 - Applying an NLP system called [ReHouSED](https://www.sciencedirect.com/science/article/pii/S153204642100232X) to study Veteran housing stability across time 
