@@ -1,5 +1,18 @@
 ### Overview
-I am a clinical data scientist and educator. As a data scientist, I apply methods including natural language processing and machine learning to support clinical research and improve patient care. As an educator, my goal is to introduce students of diverse backgrounds to Informatics and empower them to learn and apply core data science skills.
+I am a clinical data scientist and PhD student in biostatistics. 
+My work primarily focuses on applying Natural Language Processing (NLP) and Machine Learning (ML) 
+to support healthcare operations and clinical research. 
+As a student, I am currently focused on expanding my quantitative skills and mathematical foundations 
+in order to broaden my analytical toolkit.
+
+<img style="float: right;" src="./docs/alec-chapman-headshot-cropped-1.jpeg">
+
+
+### CV
+[Alec Chapman CV](docs/alec-chapman-cv.pdf)
+
+### Publications
+
 
 ### What I'm working on
 - [VA_COVID-19_NLP_BSV](https://github.com/abchapman93/VA_COVID-19_NLP_BSV): An NLP pipeline for detecting positive cases of COVID-19. Implemented in spaCy and deployed as part of the [Veterans Affairs response to COVID-19](https://openreview.net/pdf?id=ZQ_HvBxcdCv)
