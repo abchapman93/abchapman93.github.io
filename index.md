@@ -9,8 +9,6 @@ in order to broaden my analytical toolkit.
 
 Here is a [link to my CV](docs/alec-chapman-cv.pdf)
 <br>  
-<br>  
-<br>  
 
 ### Research Interests
 - Natural language processing
